@@ -3,6 +3,10 @@ The 2D XNA Primitives project ported to the modern world
 
 This is a modernized version of https://bitbucket.org/C3/2d-xna-primitives/wiki/Home
 
+## Screenshot
+![Alt text](/samplescreenshot.png?raw=true "Sample project screenshot")
+
+## What's new
 Differences with the original repository (last updated 2012):
  * Updated the project files to Visual Studio 2017
  * Updated to .NET Framework 4.5
