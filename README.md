@@ -14,6 +14,7 @@ Differences with the original repository (last updated 2012):
  * Renamed namespaces
  * New sample project based on the original
  * Removed old broken sample projects
+ * Updated the sample project with DrawLine and PutPixel examples
  
  ## License
  This work is licensed under the zlib license, which is pretty close to saying: do what you want.
