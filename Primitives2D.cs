@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace C3.XNA
+namespace MonoGame
 {
 	/// <summary>
 	/// </summary>

@@ -8,8 +8,8 @@
     <ProjectGuid>{39AD1482-1881-4852-A05D-DC61B0D3446A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>C3.XNA</RootNamespace>
-    <AssemblyName>C3.XNA.Primitives2D</AssemblyName>
+    <RootNamespace>MonoGame</RootNamespace>
+    <AssemblyName>MonoGame.Primitives2D</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
