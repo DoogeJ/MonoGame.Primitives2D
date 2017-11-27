@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitives2D", "Primitives2D.csproj", "{39AD1482-1881-4852-A05D-DC61B0D3446A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primitives2DWP7", "Primitives2DWP7.csproj", "{3D2A19A1-D632-4AC0-8B49-0E5C0BDBBB8B}"
@@ -70,5 +72,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17642C4E-51A0-42C5-AA9D-46A882403EEF}
 	EndGlobalSection
 EndGlobal
