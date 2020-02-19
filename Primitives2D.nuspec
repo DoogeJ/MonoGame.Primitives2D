@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MonoGame.Primitives2D</id>
+    <version>1.1.0</version>
+    <title>MonoGame.Primitives2D</title>
+    <authors>DoogeJ, John McDonald and Gary Texmo</authors>
+    <owners>DoogeJ</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Zlib</license>
+    <projectUrl>https://github.com/DoogeJ/MonoGame.Primitives2D</projectUrl>
+    <icon>images\monogame.png</icon>
+    <description>Easy-to-use 2D primitives</description>
+    <releaseNotes>First release of a NuGet package.</releaseNotes>
+    <copyright>Copyright 2012-2020</copyright>
+    <tags>MonoGame XNA Drawing 2D SpriteBatch Primitives</tags>
+    <repository type="git" url="https://github.com/DoogeJ/MonoGame.Primitives2D.git" branch="master" />
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System"  />
+      <frameworkAssembly assemblyName="System.Collections.Generic"  />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="monogame.png" target="images\" />
+  </files>
+</package>
