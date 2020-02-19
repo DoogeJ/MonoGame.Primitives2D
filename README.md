@@ -2,7 +2,7 @@
 The 2D XNA Primitives project ported to the modern world.
 
 ## Changelog
-### 2020-02-19
+### 2020-02-19 (1.1.0)
 General clean-up and preparations to create a NuGet package:
  * Clean up license and readme
  * Remove sample project
@@ -10,8 +10,9 @@ General clean-up and preparations to create a NuGet package:
  * Update the project files to Visual Studio 2019
  * Add MonoGame icon
  * Update Assembly information in preparation for NuGet package creation
+ * Create NuGet package manifest
 
-### 2017-11-27
+### 2017-11-27 (1.0.0)
 Differences with the original [repository](https://bitbucket.org/C3/2d-xna-primitives/wiki/Home) (last updated 2012):
  * Updated the project files to Visual Studio 2017
  * Updated to .NET Framework 4.5
