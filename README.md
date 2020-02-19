@@ -2,6 +2,7 @@
 The 2D XNA Primitives project ported to the modern world.
 
 NuGet package: https://www.nuget.org/packages/MonoGame.Primitives2D/
+
 Sample project: https://github.com/DoogeJ/MonoGame.Primitives2D.Sample
 
 ## Changelog
