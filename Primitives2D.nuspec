@@ -14,7 +14,7 @@
     <releaseNotes>First release of a NuGet package.</releaseNotes>
     <copyright>Copyright 2012-2020</copyright>
     <tags>MonoGame XNA Drawing 2D SpriteBatch Primitives</tags>
-    <repository type="git" url="https://github.com/DoogeJ/MonoGame.Primitives2D.git" branch="master" commit="36f631abb32f476c3947a6ee4ff111e9f3e5206d" />
+    <repository type="git" url="https://github.com/DoogeJ/MonoGame.Primitives2D.git" branch="master" commit="762cb442b7957272a48d52ec2c78b21df41127bd" />
   </metadata>
   <files>
     <file src="monogame.png" target="images\" />
