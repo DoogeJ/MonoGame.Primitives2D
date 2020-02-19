@@ -7,6 +7,7 @@ General clean-up and preparations to create a NuGet package:
  * Clean up license and readme
  * Remove sample project
  * Update MonoGame to version 3.7.1.189
+ * Update the project files to Visual Studio 2019
 
 ### 2017-11-27
 Differences with the original [repository](https://bitbucket.org/C3/2d-xna-primitives/wiki/Home) (last updated 2012):
