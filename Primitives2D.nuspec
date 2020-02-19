@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>MonoGame.Primitives2D</id>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <title>MonoGame.Primitives2D</title>
     <authors>DoogeJ, John McDonald and Gary Texmo</authors>
     <owners>DoogeJ</owners>
@@ -15,10 +15,6 @@
     <copyright>Copyright 2012-2020</copyright>
     <tags>MonoGame XNA Drawing 2D SpriteBatch Primitives</tags>
     <repository type="git" url="https://github.com/DoogeJ/MonoGame.Primitives2D.git" branch="master" commit="36f631abb32f476c3947a6ee4ff111e9f3e5206d" />
-    <frameworkAssemblies>
-      <frameworkAssembly assemblyName="System"  />
-      <frameworkAssembly assemblyName="System.Collections.Generic"  />
-    </frameworkAssemblies>
   </metadata>
   <files>
     <file src="monogame.png" target="images\" />

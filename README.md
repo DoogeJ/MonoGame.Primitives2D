@@ -4,6 +4,10 @@ The 2D XNA Primitives project ported to the modern world.
 This library can also be found as a NuGet package on https://www.nuget.org/packages/MonoGame.Primitives2D/
 
 ## Changelog
+### 2020-02-19 (1.1.1)
+NuGet package fixes
+ * ReferencedFrameworkAssemblies created an issue in the NuGet package
+
 ### 2020-02-19 (1.1.0)
 General clean-up and preparations to create a NuGet package:
  * Clean up license and readme
