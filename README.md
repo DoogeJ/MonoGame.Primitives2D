@@ -1,13 +1,16 @@
 # MonoGame.Primitives2D
-The 2D XNA Primitives project ported to the modern world
-
-This is a modernized version of https://bitbucket.org/C3/2d-xna-primitives/wiki/Home
+The 2D XNA Primitives project ported to the modern world.
 
 ## Screenshot
 ![Alt text](/samplescreenshot.png?raw=true "Sample project screenshot")
 
-## What's new
-Differences with the original repository (last updated 2012):
+## Changelog
+### 2020-02-19
+General clean-up and preparations to create a NuGet package:
+ * Clean up license and readme
+
+### 2017-11-27
+Differences with the original [repository](https://bitbucket.org/C3/2d-xna-primitives/wiki/Home) (last updated 2012):
  * Updated the project files to Visual Studio 2017
  * Updated to .NET Framework 4.5
  * Updated to MonoGame 3.6 instead of using XNA
